@@ -1,15 +1,15 @@
 window.GAME_UPDATE_LOGS = [
     {
-        version: "Development.0.0.7",
-        date: "2026-5-3T17:49:41+08:00",
+        version: "Development.0.0.14",
+        date: "2026-8-13T04:31:32+08:00",
         type: "dev",
         changes: [
-            "Add HSR01-02-000",
-            "Signal System Update",
-            "Add Signal Flag",
-            "Card Update",
-            "Spawn Line Completed",
-            "Add H02-03-000, L01-02-000, L02-01-000, L03-01-000, L03-02-000, T01-01-000"
+            "Add GZMTRH01-02",
+            "Update Signal System",
+            "Update Chat System",
+            "Update Votekick (Add Gui)",
+            "Add Siu Hong Station, Tin Ping Ga Station, Canton Road East Station",
+            "Add Canton Urban Line"
         ]
     },
     {
