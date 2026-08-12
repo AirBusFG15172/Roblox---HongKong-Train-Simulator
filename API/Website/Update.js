@@ -1,4 +1,4 @@
-const updateLogs = [
+window.GAME_UPDATE_LOGS = [
     {
         version: "Development.0.0.7",
         date: "2026-5-3T17:49:41+08:00",
@@ -21,32 +21,3 @@ const updateLogs = [
         ]
     }
 ];
-
-function renderUpdates() {
-    const container = document.getElementById('update-container');
-    if (!container) return;
-
-    let htmlContent = '';
-
-    updateLogs.forEach(log => {
-        htmlContent += `
-        <div class="update-card ${log.type}">
-            <div class="update-header">
-                <span class="version-tag">${log.version}</span>
-                <span class="date-tag">(${log.date})</span>
-            </div>
-            <ul class="change-list">
-                ${log.changes.map(item => `<li>${item}</li>`).join('')}
-            </ul>
-        </div>
-        `;
-    });
-
-    container.innerHTML = htmlContent;
-}
-
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', renderUpdates);
-} else {
-    renderUpdates();
-}
