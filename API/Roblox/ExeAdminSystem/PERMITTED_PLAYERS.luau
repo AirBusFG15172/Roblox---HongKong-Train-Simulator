@@ -14,11 +14,16 @@ local PERMITTED_PLAYERS = {
 		["KICKABLE"] = true;
 		["TIER"] = 10
 	};
-	[3264020093] = { -- @Artem_123456red ( la_ttrn ) [Owner]
+	[3264020093] = { -- @Artem_123456red [Owner]
 		["BANNABLE"] = true;
 		["KICKABLE"] = true;
 		["TIER"] = 10
-	}
+	}:
+	[11476106586] = { -- @Artem_123456red ( Artem_123456red ) [Owner]
+		["BANNABLE"] = true;
+		["KICKABLE"] = true;
+		["TIER"] = 10
+	}:
 }
 
 return PERMITTED_PLAYERS
