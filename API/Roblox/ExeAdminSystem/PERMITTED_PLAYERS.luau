@@ -23,7 +23,7 @@ local PERMITTED_PLAYERS = {
 		["BANNABLE"] = true;
 		["KICKABLE"] = true;
 		["TIER"] = 10
-	}:
+	}
 }
 
 return PERMITTED_PLAYERS
