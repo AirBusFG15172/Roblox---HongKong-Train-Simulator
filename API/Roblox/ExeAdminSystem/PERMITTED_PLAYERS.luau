@@ -18,7 +18,7 @@ local PERMITTED_PLAYERS = {
 		["BANNABLE"] = true;
 		["KICKABLE"] = true;
 		["TIER"] = 10
-	}:
+	};
 	[11476106586] = { -- @Artem_123456red ( Artem_123456red ) [Owner]
 		["BANNABLE"] = true;
 		["KICKABLE"] = true;
