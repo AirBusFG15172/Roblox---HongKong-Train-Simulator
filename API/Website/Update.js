@@ -1,6 +1,6 @@
 window.GAME_UPDATE_LOGS = [
     {
-        version: "Development.0.0.14",
+        version: "Development.0.0.15",
         date: "2026-8-13T04:31:32+08:00",
         type: "dev",
         changes: [
@@ -8,8 +8,11 @@ window.GAME_UPDATE_LOGS = [
             "Update Signal System",
             "Update Chat System",
             "Update Votekick (Add Gui)",
+            "Update Coupler System",
+            "Update Rank System, OverHeadUI, Card",
             "Add Siu Hong Station, Tin Ping Ga Station, Canton Road East Station",
-            "Add Canton Urban Line"
+            "Add Canton Urban Line",
+            "Add Team System"
         ]
     },
     {
