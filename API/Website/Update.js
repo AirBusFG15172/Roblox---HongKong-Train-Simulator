@@ -1,7 +1,7 @@
 window.GAME_UPDATE_LOGS = [
     {
         version: "Development.0.0.17",
-        date: "2026-8-13T04:31:32+08:00",
+        date: "2026-10-19T22:44:32+08:00",
         type: "dev",
         changes: [
             "Main"
@@ -9,7 +9,7 @@ window.GAME_UPDATE_LOGS = [
     },
     {
         version: "Main.0.0.16",
-        date: "YYYY-MM-DDTHH:MM:SS+HH:MM",
+        date: "2026-10-19T22:44:32+08:00",
         type: "main",
         changes: [
             "Update Signal System",
