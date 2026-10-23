@@ -4,7 +4,7 @@ window.GAME_UPDATE_LOGS = [
         date: "2026-10-19T22:44:32+08:00",
         type: "dev",
         changes: [
-            "Main"
+            "Add Grace Station, Hung Hom Station"
         ]
     },
     {
