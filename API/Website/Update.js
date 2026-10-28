@@ -1,10 +1,12 @@
 window.GAME_UPDATE_LOGS = [
     {
         version: "Development.0.0.17",
-        date: "2026-10-19T22:44:32+08:00",
+        date: "2026-10-28T12:14:32+08:00",
         type: "dev",
         changes: [
-            "Add Grace Station, Hung Hom Station"
+            "Add Grace Station, Hung Hom Station, Hung Hom North Station",
+            "Update Driver Cab Control",
+            "Update H02-02, L01-02"
         ]
     },
     {
