@@ -6,7 +6,7 @@ window.GAME_UPDATE_LOGS = [
         changes: [
             "Add Grace Station, Hung Hom Station, Hung Hom North Station",
             "Update Driver Cab Control",
-            "Update H02-02, L01-02, L03-01",
+            "Update H02-02, L01-02, L03-01, T03-01",
             "Update Pantograph 4.0"
         ]
     },
