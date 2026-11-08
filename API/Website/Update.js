@@ -1,18 +1,20 @@
 window.GAME_UPDATE_LOGS = [
     {
         version: "Development.0.0.17",
-        date: "2026-11-01T10:08:32+08:00",
+        date: "2026-11-08T11:39:00+08:00",
         type: "dev",
         changes: [
             "Add Grace Station, Hung Hom Station, Hung Hom North Station",
+            "Add H03-02",
             "Update Driver Cab Control",
             "Update H02-02, L01-02, L03-01, T03-01",
-            "Update Pantograph 4.0"
+            "Update Pantograph 4.0",
+            "Update Coupling System"
         ]
     },
     {
         version: "Main.0.0.16",
-        date: "2026-10-19T22:44:32+08:00",
+        date: "2026-10-19T22:44:00+08:00",
         type: "main",
         changes: [
             "Update Signal System",
