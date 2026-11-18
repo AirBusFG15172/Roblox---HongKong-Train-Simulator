@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg xmlns="http://w3.org" version="1.1" width="1032px" height="1032px" viewBox="0 0 1032 1032">
+  <g>
+    <ellipse cx="516" cy="516" rx="500" ry="500" fill="#990000" />
+    
+    <rect x="406" y="466" width="80" height="385" fill="#ffffff" />
+    <rect x="546" y="466" width="80" height="385" fill="#ffffff" />
+    
+    <rect x="296" y="526" width="440" height="80" fill="#ffffff" />
+    
+    <path d="M 251 191 L 356 191 Q 381 221 393.5 236 Q 406 251 416 266 Q 426 281 436 298.5 Q 446 316 461 353.5 Q 476 391 486 466 L 406 511 Q 401 466 396 441 Q 391 416 378.5 378.5 Q 366 341 356 323.5 Q 346 306 336 291 Q 326 276 313.5 261 Q 301 246 251 191 Z" fill="#ffffff" />
+    
+    <path d="M 676 191 L 781 191 Q 731 246 718.5 261 Q 706 276 696 291 Q 686 306 676 323.5 Q 666 341 653.5 378.5 Q 641 416 636 441 Q 631 466 626 511 L 546 466 Q 556 391 571 353.5 Q 586 316 596 298.5 Q 606 281 616 266 Q 626 251 638.5 236 Q 651 221 676 191 Z" fill="#ffffff" />
+  </g>
+</svg>
