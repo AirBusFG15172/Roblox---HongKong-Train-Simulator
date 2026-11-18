@@ -1,7 +1,7 @@
 window.GAME_UPDATE_LOGS = [
     {
         version: "Development.0.0.17",
-        date: "2026-11-18T22:19:00+08:00",
+        date: "2026-11-19T00:00:00+08:00",
         type: "dev",
         changes: [
             "Add Grace Station, Hung Hom Station, Hung Hom North Station",
@@ -10,6 +10,7 @@ window.GAME_UPDATE_LOGS = [
             "Update H02-02, H03, LRT01-01, LRT01-02, L01, L02, L03, L04, L06, T01, T02, T03",
             "Update Pantograph 4.0",
             "Update Coupling System",
+            "Update HKRW Logo",
             "Reduce 'while' lopp"
         ]
     },
