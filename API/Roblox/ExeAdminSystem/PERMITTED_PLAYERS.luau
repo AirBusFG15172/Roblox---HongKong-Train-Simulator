@@ -4,12 +4,7 @@ local PERMITTED_PLAYERS = {
 		["KICKABLE"] = true;
 		["TIER"] = 10
 	};
-	[3434584503] = { -- @TseHongYeung0120 ( AirBusFG15172 ) [Owner]
-		["BANNABLE"] = true;
-		["KICKABLE"] = true;
-		["TIER"] = 10
-	};
-	[2419843803] = { -- @Jonathanrfe23 (AirBusFG15712) [Owner]
+	[3434584503] = { -- @AirBusFG15172 [Owner]
 		["BANNABLE"] = true;
 		["KICKABLE"] = true;
 		["TIER"] = 10
